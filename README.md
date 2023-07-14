@@ -16,3 +16,6 @@
 
 mavist@mavist.tk
 https://vk.com/mavistgroup
+
+##
+Иконка приложения - <a href="https://www.flaticon.com/ru/free-icons/" title="папка иконки">Папка иконки от Iconpro86 - Flaticon</a>
