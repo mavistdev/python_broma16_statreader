@@ -25,7 +25,7 @@
 <!-- CONTACT -->
 ## Связь
 
-mavist@mavist.tk
+admin@warden-news.ru
 https://vk.com/mavistgroup
 
 ##
